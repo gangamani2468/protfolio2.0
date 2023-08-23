@@ -41,7 +41,7 @@ window.location.href = "#home"
         document.getElementById("contactHead").parentNode.setAttribute("class", "wh");
         document.getElementById("contactHead").parentNode.setAttribute("id", "");
       }
-      else if (scrolled > 1575 && scrolled < 3080) {
+      else if (scrolled > 1314 && scrolled < 2450) {
         document.getElementById("homeHead").parentNode.setAttribute("class", "wh");
         document.getElementById("homeHead").parentNode.setAttribute("id", "");
         document.getElementById("aboutHead").parentNode.setAttribute("id", "");
@@ -51,7 +51,7 @@ window.location.href = "#home"
         document.getElementById("projectHead").parentNode.setAttribute("class", "wh");
         document.getElementById("projectHead").parentNode.setAttribute("id", "");
       }
-      else if (scrolled > 3080 && scrolled < 3650) {
+      else if (scrolled > 2450 && scrolled < 3050) {
         document.getElementById("homeHead").parentNode.setAttribute("class", "wh");
         document.getElementById("homeHead").parentNode.setAttribute("id", "");
         document.getElementById("aboutHead").parentNode.setAttribute("id", "");
@@ -63,7 +63,7 @@ window.location.href = "#home"
         document.getElementById("contactHead").parentNode.setAttribute("class", "wh");
         document.getElementById("contactHead").parentNode.setAttribute("id", "");
       }
-      else if (scrolled > 3650) {
+      else if (scrolled > 3050) {
 
         document.getElementById("homeHead").parentNode.setAttribute("class", "wh");
         document.getElementById("homeHead").parentNode.setAttribute("id", "");
